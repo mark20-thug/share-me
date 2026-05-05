@@ -1,4 +1,4 @@
-# File Transfer Application v2.0
+# Share me v1.0
 
 A **cross-platform** C++ application for securely transferring files and folders to your neighbor's PC over a network.
 
