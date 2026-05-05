@@ -1,0 +1,9 @@
+2026-05-05 16:11:43 | Application started on Linux
+2026-05-05 16:11:43 | ERROR: Path does not exist: 
+2026-05-05 16:11:43 | Failed: Invalid source path
+2026-05-05 16:11:45 | Application started on Linux
+2026-05-05 16:11:45 | ERROR: Path does not exist: 
+2026-05-05 16:11:45 | Failed: Invalid source path
+2026-05-05 16:12:03 | Application started on Linux
+2026-05-05 16:12:03 | ERROR: Path does not exist: 
+2026-05-05 16:12:03 | Failed: Invalid source path

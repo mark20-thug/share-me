@@ -1,0 +1,5 @@
+2026-05-05 20:04:43 | Application started on Linux
+2026-05-05 20:08:31 | ERROR: Destination parent directory does not exist: /mnt/home/emma-derrick
+2026-05-05 20:08:31 | Failed: Invalid destination path
+2026-05-05 20:10:22 | Application started on Linux
+2026-05-05 20:14:30 | ERROR: Copy failed - filesystem error: cannot copy: Permission denied [/home/sserunjogi-mark/Desktop/thug_books/python(@)] [/mnt/share]
